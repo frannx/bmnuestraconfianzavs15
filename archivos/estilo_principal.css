@@ -2700,13 +2700,13 @@
     
     .ache_ofrecemoscreditos {
         font-size: 2rem;
-        margin-top:4rem;
+        margin-top:0rem;
     }
     
     .creditos_container {
         display: flex !important;
         flex-direction: column !important;
-        gap: 1.2rem;
+        gap: 1rem;
         width: 100%;
         align-items: center;
         justify-content: center;
